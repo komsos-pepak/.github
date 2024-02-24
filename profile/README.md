@@ -4,5 +4,5 @@
 </p>
 
 <p align="center">
-  <img width="460" src="/image/PEPAKLOGO3.png" alt="Logo">
+  <img width="460" src="https://raw.githubusercontent.com/komsos-pepak/.github/main/profile/image/PEPAKLOGO3.png" alt="Logo">
 </p>
